@@ -1,6 +1,3 @@
--- // Coded by nigger
--- Example at bottom
---
 local Library = {};
 do
 	Library = {
